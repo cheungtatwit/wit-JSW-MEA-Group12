@@ -1,8 +1,10 @@
 import pathlib
 import cv2
 
-input_directory = 'C:\\Users\\cheungt\\Desktop\\myJoint\\Attempt 5\\model_2\\input - copy'
-output_directory = 'C:\\Users\\cheungt\\Desktop\\myJoint\\Attempt 5\\model_2\\input'
+input_directory = 'Enter input folder here'
+# input example: 'C:\\Users\\cheungt\\Desktop\\myJoint\\raw_image'
+output_directory = 'Enter output folder here'
+# output example: 'C:\\Users\\cheungt\\Desktop\\myJoint\\input'
 extension = '.png'
 
 
